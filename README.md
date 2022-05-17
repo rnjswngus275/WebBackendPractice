@@ -11,5 +11,5 @@
 - Servlet을 생성해서 1~10 출력해보기
 - Servlet의 생성주기 확인
 - HttpServletRequest, HttpServletResponse 객체의 메서드로 정보 출력하기(헤더정보, 파라미터, etc..)
-- JSTL과 EL 사용 실습
+- EL 사용 실습 (scope에따른 변수들을 EL로 표현해보기,사칙연산과 관계,논리연산자 사용해보기)
 - TO BE CONTINUE..!
